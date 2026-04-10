@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="SPORT",Anis 1
-http://130.61.63.182:9088/Anis1/mpegts
+https://fs.anis.pp.ua/Anis1/mpegts
 
 #EXTINF:-1 group-title="SPORT",Anis 2
-http://130.61.63.182:9088/Anis2/mpegts
+https://fs.anis.pp.ua/Anis2/mpegts
 
 #EXTINF:-1 group-title="SPORT",Anis 3
-http://130.61.63.182:9088/Anis3/mpegts
+https://fs.anis.pp.ua/Anis3/mpegts
