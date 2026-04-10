@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="SPORT",Anis 1
-http://fs.anis.pp.ua/Anis1/index.m3u8
+http://fs.anis.pp.ua/Anis3/video.m3u8?token=Anis
 
 #EXTINF:-1 group-title="SPORT",Anis 2
-http://fs.anis.pp.ua/Anis2/index.m3u8
+http://fs.anis.pp.ua/Anis2/video.m3u8?token=Anis
 
 #EXTINF:-1 group-title="SPORT",Anis 3
-http://fs.anis.pp.ua/Anis3/index.m3u8
+http://fs.anis.pp.ua/Anis2/video.m3u8?token=Anis
